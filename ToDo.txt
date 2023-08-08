@@ -1,0 +1,3 @@
+[+] back animation
+[+] sourceters own font install
+[+] animation while on view, on first render
